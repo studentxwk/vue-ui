@@ -1,6 +1,6 @@
 /**
- * @author monkeywang
- * Date: 17/11/9
+ * @author xuwk
+ * Date: 18/12/28
  */
 import WButton from './button/index.js'
 // import MetaInfo from './meta-info/index'
