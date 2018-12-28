@@ -1,5 +1,5 @@
 {
-  "name": "vue-ui",
+  "name": "vbaseui",
   "version": "1.0.0",
   "description": "UI base on Vue",
   "main": "index.js",
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+ssh://git@github.com:studentxwk/vue-ui.git"
   },
+  "bugs": {
+    "url": "https://github.com/studentxwk/my_package/issues"
+  },
+  "homepage": "https://github.com/studentxwk/my_package",
   "keywords": [
     "UI"
   ],
