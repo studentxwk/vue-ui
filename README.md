@@ -14,7 +14,7 @@ npm install vbaseui --save
 
 可以在项目的入口文件中引入所有组件或所需组件
 import VbaseUI from 'vbaseui' // 引入组件库
-import '../node_modules/vbaseui/packages/theme-default/lib/index.css' // 引入样式库
+import 'vbaseui/theme-default/lib/index.css' // 引入样式库
 
 Vue.use(VbaseUI)
 
